@@ -9,5 +9,6 @@ public class GitClass {
 
     public void test(){
         System.out.println("修改部分");
+        System.out.println("再次修改");
     }
 }
