@@ -6,4 +6,8 @@ public class GitClass {
 
         System.out.println("hello!");
     }
+
+    public void test(){
+        System.out.println("修改部分");
+    }
 }
